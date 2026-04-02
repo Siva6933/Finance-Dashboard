@@ -197,7 +197,7 @@ src/
 1. Clone the repository:
 
 ```
-git clone <your-repo-link>
+git clone <(https://github.com/Siva6933/Finance-Dashboard)>
 ```
 
 2. Navigate to project folder:
